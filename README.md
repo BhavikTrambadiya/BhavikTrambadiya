@@ -4,6 +4,11 @@
 - Tailwind CSS is famous for providing style using utility class for HTML components, so I have all knowledge and experience with it.
 - I start my journey as a Laravel backend developer, so my backend is also excellent among my skills.
 - You can contact me at bhaviktrambadiya@gmail.com using mail.
+- Some working projects
+- Tarrush
+https://tarrush.com/
+-OfficeBud
+http://officebud.neuronsit.sg/
 
 <!---
 BhavikTrambadiya/BhavikTrambadiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
